@@ -1,1 +1,5 @@
-# hello-world my name is sagwadi babane i like reporting and counting in finance 
+# hello-world 
+hello people
+Hello my name is Sagwadi
+
+i like reporting and Finance 
